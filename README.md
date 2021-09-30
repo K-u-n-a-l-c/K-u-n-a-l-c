@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K-u-n-a-l-c
 - 👀 I’m interested in competetive programming
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning C, C++, Python.
 - 💞️ I’m looking to collaborate on various projects
 
 <!---
