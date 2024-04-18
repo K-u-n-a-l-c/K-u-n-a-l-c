@@ -32,8 +32,8 @@
 <p align="left">
 <a href="[https://linkedin.com/in/kunalc123](https://www.linkedin.com/in/kunalc123/)" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Kunal Chaurasia"  width="40" /></a>
 <a href="https://instagram.com/k_u_n_a_l_c" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="k_u_n_a_l_c" width="40" /></a>
-<a href="https://www.codechef.com/users/kunalc" target="blank"><img align="center" src="https://i.pinimg.com/736x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="Kunal Chaurasia" width="40" /></a>
 <a href="https://codeforces.com/profile/k_u_n_a_l_c" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4E03AQFb1d-dChfwbg/profile-displayphoto-shrink_200_200/0/1684074141995?e=2147483647&v=beta&t=AfJkQs7z4Cj_EPIK7IzLL_ObdH9wmokKQJR8niO_Ibg" alt="Kunal Chaurasia" width="40" /></a>
+<a href="https://www.codechef.com/users/kunalc" target="blank"><img align="center" src="https://i.pinimg.com/736x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="Kunal Chaurasia" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
