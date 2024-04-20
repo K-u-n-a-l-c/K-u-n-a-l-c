@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kunal Chaurasia</h1>
-<br>
+<br>!
 
-<h3 align="center">A passionate fullstack developer from India with experience in django, NodeJS and ReactJS</h3>
+
+<!-- <h3 align="center">A passionate fullstack developer from India with experience in django, NodeJS and ReactJS</h3> -->
+<img src="https://github.com/K-u-n-a-l-c/K-u-n-a-l-c/assets/75530535/bdfa082c-9aa7-42e4-9bf1-306037a74684" alt="Banner"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=K-u-n-a-l-c&label=Profile%20views&color=0e75b6&style=flat" alt="K-u-n-a-l-c" /> </p>
 
