@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Chaurasia</h1>
-<br>!
+<br>
 
 
 <!-- <h3 align="center">A passionate fullstack developer from India with experience in django, NodeJS and ReactJS</h3> -->
