@@ -18,7 +18,7 @@
 
 
 
-- 👨‍💻 My Portfolio [https://www.InDevelopment.live/](https://www.InDevelopment.live/)
+- 👨‍💻 My Portfolio [https://kunalc.vercel.app/](https://kunalc.vercel.app/)
 
 - 💬 Ask me about **django, python, ReactJS, NodeJS**
 
